@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #222;
+
+}
+
+div.tital {
+    margin-bottom: 30px;
+}
+
+.input-field {
+    margin-bottom: 10px;
+}
+
+.input-field input, select {
+    border: none;
+    border-radius: 5px;
+}
+
+.form-group {
+    padding: 30px;
+    border: 2px solid #000;
+    border-radius: 3px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td {
+border: 1px solid #000;
+}
