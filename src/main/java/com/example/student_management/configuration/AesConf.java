@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.util.SerializationUtils;
 
 import javax.crypto.Cipher;
-import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import java.security.GeneralSecurityException;
 import java.security.Key;
